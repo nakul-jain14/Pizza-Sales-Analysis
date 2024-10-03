@@ -46,13 +46,13 @@ This project analyzes pizza sales data to provide actionable insights using SQL 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pizza-sales-analysis.git
+   git clone https://github.com/nakul-jain14/pizza-sales-analysis.git
 
 2. **Run the SQL Queries**:
    - Use the provided SQL queries in the `SQL_Queries.sql` file to generate KPIs in MS SQL Server.
 
 3. **Power BI Dashboard**:
-   - Open the Power BI file (`Pizza Sales Analysis.pbix`) in **Power BI Desktop**.
+   - Open the Power BI file (`[Pizza Sales Analysis.pbix](https://github.com/nakul-jain14/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Analysis.pbix)`) in **Power BI Desktop**.
    - Interact with the filters and charts to explore the insights.
 
 ## Data Source

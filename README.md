@@ -36,7 +36,7 @@ This project analyzes pizza sales data to provide actionable insights using SQL 
 
 ### Home Page
 
-![Home Page](https://github.com/nakul-jain14/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Images/home.png)
+![Home Page](https://github.com/nakul-jain14/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Images/Home%20Page.png)
 
 ### Best/Worst Sellers Page
 

@@ -40,7 +40,7 @@ This project analyzes pizza sales data to provide actionable insights using SQL 
 
 ### Best/Worst Sellers Page
 
-![Best/Worst Sellers Page](path_to_best_worst_sellers_screenshot.png)
+![Best/Worst Sellers Page](https://github.com/nakul-jain14/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Images/Best-Worst%20Seller%20Page.png)
 
 ## How to Use
 
